@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc46a8b6-a860-4b81-80b3-98ca1353b58e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/class03/C_03_03_CrammersRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class03/C_03_03_CrammersRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class03/C_03_03_CrammersRule.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565172835050</updated>
-      <workItem from="1565172840781" duration="1375000" />
+      <workItem from="1565172840781" duration="1687000" />
     </task>
     <servers />
   </component>
